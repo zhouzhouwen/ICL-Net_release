@@ -24,7 +24,7 @@ Place the files as received in `data/raw/`; `scripts/train.py` and `scripts/test
 
 ```
 data/raw/
-├── spds.plt                     signal list (38 labelled columns)
+├── spds.plt                     labels of the 37 exported variables (34 SPDS signals, 3 break flows)
 └── <case_id>.spds.prn           one file per transient (153 files)
 ```
 
